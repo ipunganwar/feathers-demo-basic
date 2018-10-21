@@ -11,3 +11,6 @@ curl 'http://localhost:3030/messages/' -H 'Content-Type: application/json' --dat
 
 delete cmdline
 curl -X "DELETE" http://localhost:3030/messages/1
+
+# APP_PAGINATION.JS
+for testing PAGINATION
